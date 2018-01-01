@@ -1,0 +1,12 @@
+﻿  Main.cpp
+Main.cpp(290): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+Main.cpp(291): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+Main.cpp(297): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+Main.cpp(298): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+Main.cpp(317): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+Main.cpp(318): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+Main.cpp(319): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Main.cpp(320): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  OpenGL1.vcxproj -> c:\users\user\documents\visual studio 2012\Projects\OpenGL1\Release\OpenGL1.exe
