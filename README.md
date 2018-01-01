@@ -1,2 +1,2 @@
 # Opengl-Primitive
-draws Opengl stuff in primitive
+draw some Opengl stuff in primitive
